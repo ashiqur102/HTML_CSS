@@ -1,0 +1,39 @@
+<html DOCTYPE!>
+<link href='style.css' rel=' stylesheet '>
+<body>
+<ul>
+	<li><a>Home</a></li>
+	<li><a>ABOUT US</a></li>
+
+	<li><a>EMERGENCY</a>
+		  <ul>
+		  	  <li><a>CALL AMBULANCE</a></li>
+		  	  <li><a>BLOOD REQUEST</a>
+			  	  <ul>
+			  	  	  <li><a>Request To Blood Doner</a></li>
+			  	  	  <li><a>Request For processed blood</a></li>
+			  	  </ul>
+			  </li>
+		  	   <li><a>FIND NEAREST HOSPITAL</a></li>
+		  	   <li><a>EMERGENCY PHONE NUMBER</a></li>
+		  </ul>
+	</li>
+
+	<li><a>DEPARTMENTS</a>
+	    <ul>
+			  <li><a>SKIN</a></li>
+			  <li><a>NOSE</a></li>
+			  <li><a>EAR</a></li>
+			  <li><a>HAR</a></li>
+		</ul>
+	</li>
+	<li><a>Dr. APPOINMENT</a>
+	  	<ul>
+	  		<li><a>Online Appoinment</a></li>
+	  		<li><a>Physical Appoinment</a></li>
+	  	</ul>
+	</li>
+</ul>
+</body>
+
+</html>
