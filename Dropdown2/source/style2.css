@@ -82,7 +82,7 @@ font-size: 18px;
 /* Action after hover main menu and sub menu*/
 .main-menu li:hover .sub-menu
 {
-display:block; 
+display:block;
 }
 /*SIGNUP BUTTON STYLE*/
 .btn   /*SIGNUP BUTTON DESIGN START*/
@@ -93,12 +93,12 @@ font-size: 25px;
 /*height: 60px;*/
 width: 150px;
 text-align: center;
-border-radius: 60px;
+border-radius: 60px
 line-height: 60px;
 border:3px solid 	#004d33;
 display: block;
-margin :80px auto;
-margin-right: 150px;
+margin :300px auto;
+margin-left: 300px;
 color:#E90707;
 text-decoration: none;
 position: relative;
