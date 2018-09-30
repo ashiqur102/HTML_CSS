@@ -48,3 +48,29 @@ html,body{height: 100%;}/*Declair body size*/
 	top: 450px;
 	background: #C8E5E5;
 }
+
+/* main menubar background color and text alignment  */
+.division
+{
+	text-align: center;
+	background:#122b3e;
+	margin: 0px;
+	/*position: fixed;*/
+}
+/*Main menu Borde and text color*/
+.main-menu >li
+{
+	display: inline-block;
+	padding: 10px 0px;
+	margin-left: 10px;
+	border: 1px solid white;
+	width:150px;
+	color: white;
+	font-size: 12px;
+	transition: .4s;
+}
+/*hover Main menu*/
+.main-menu:hover
+{
+	display: inline-block;
+}
