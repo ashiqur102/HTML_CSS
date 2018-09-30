@@ -22,3 +22,29 @@ html,body{height: 100%;}/*Declair body size*/
 	background:url(image//m2.jpg);
 
 }
+/*Content Design*/
+#content{
+	opacity: 100%;
+	width: 100%;
+	height: 300px;
+	position: relative;
+	top: 425px;
+	/*background:url(image//m2.jpg);*/
+	background: #C8E5E5;
+}
+#content2{
+	opacity: .7;
+	width: 100%;
+	height: 300px;
+	position: relative;
+	top: 440px;
+	background: #C8E5E5;
+}
+#content3{
+	opacity: .7;
+	width: 100%;
+	height: 300px;
+	position: relative;
+	top: 450px;
+	background: #C8E5E5;
+}
