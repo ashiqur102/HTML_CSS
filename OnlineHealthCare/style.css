@@ -7,3 +7,7 @@ body
 	background: url(m11.jpg);
 	opacity: 100%;
 }
+header{
+	z-index: 10; /*for fixed position when scrroling*/
+	position: fixed;
+}
