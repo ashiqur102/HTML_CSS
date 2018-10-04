@@ -8,11 +8,11 @@ body
 	opacity: 100%;
 }
 header{
-	z-index: 10; /*for fixed position when scrroling*/
+	z-index: 10;
 	position: fixed;
 }
-html,body{height: 100%;}/*Declair body size*/
-/*Banner Design that actully use as container background*/
+html,body{height: 100%;}
+
 #banner{
 	opacity: .7;
     width: 100%;
@@ -22,7 +22,6 @@ html,body{height: 100%;}/*Declair body size*/
 	background:url(image//m2.jpg);
 
 }
-/*Content Design*/
 #content{
 	opacity: 100%;
 	width: 100%;
@@ -48,13 +47,13 @@ html,body{height: 100%;}/*Declair body size*/
 	top: 450px;
 	background: #C8E5E5;
 }
-
 /* main menubar background color and text alignment  */
 .division
 {
 	text-align: center;
 	background:#122b3e;
 	margin: 0px;
+	/*position: fixed;*/
 }
 /*Main menu Borde and text color*/
 .main-menu >li
@@ -73,6 +72,8 @@ html,body{height: 100%;}/*Declair body size*/
 {
 	display: inline-block;
 }
+
+
 /*sub menu background color text align and border colo*/
 .sub-menu
 {
